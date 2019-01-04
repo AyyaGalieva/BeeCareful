@@ -1,0 +1,5 @@
+package Model;
+
+public enum EventType {
+    VICTORY, GAME_OVER, OPEN_CELL, PRESS_FLAGGED_CELL, PRESS_OPENED_CELL, FIRST_MOVE
+}
